@@ -1,0 +1,52 @@
+
+.navBar{
+    background-color: #161b22;
+    color: #F0F6FC;
+}
+input[type=text]{
+    background-color: #0d1117;
+    color: #F0F6FC;
+    border: 1px solid #454c55;
+    outline: none;
+}
+.container-fluid{
+    background-color: #0d1117;
+}
+.image-err img{
+width: 100%;
+background-size: cover;
+}
+.userDetail{
+    color: #c9d1d9;
+}
+.heading{
+    color: #c9d1d9;
+}
+.popular{
+    color: #c9d1d9;
+}
+.overview{
+    color: #c9d1d9;
+}
+.left .abcd{
+    background-color: #0d1117;
+    border: 1px solid #454c55;
+}
+.right .abcd{
+    background-color: #0d1117;
+    border: 1px solid #454c55;
+}
+.cardLink a{
+    text-decoration: none;
+}
+.cardLink a:hover{
+    text-decoration: underline;
+}
+.profileImage img{
+width: 100%;
+object-fit: cover;
+border-radius: 50%;
+}
+.hrColor hr{
+    color: #c9d1d9;
+}
